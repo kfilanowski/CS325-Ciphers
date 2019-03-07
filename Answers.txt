@@ -1,0 +1,29 @@
+1) Problem 1: write a code to encrypt and decrypt the following text using Cesar cryptographic algorithm. Key= 3
+Plaintext=”smell fishy”
+
+Ciphertext: vphoo ilvkb
+ 
+2) Problem 2: write a code to encrypt and decrypt the following text using Affine cryptographic algorithm. Key= (3, 15)
+Plaintext= ”The quick brown fox jumped over the lazy dog.”
+
+Ciphertext: ukb lxnvt sofdc efg qxziby fabo ukb wpmj yfh
+ 
+3) Read data from a file, called as test.txt and create a hash using SHA-224, SHA-256, SHA-384, SHA-512, and MD5 hashing algorithm. This means that your code generates hash using the listed hash algorithm.
+You can use methods supported by python in “hashlib” library. The content of test.txt is:
+ 
+“Timmie Willie is a country mouse who is accidentally transported to a city in a vegetable basket. When he wakes up, he finds himself in a party and makes a friend. When he is unable to bear the city life, he returns to his home but invites his friend to the village. When his friend visits him, something similar happens."
+
+Hash results from test.txt file:
+
+md5: a019875d3f53e5f8ffa160776373856c
+
+SHA-224: 71f6b2ced1c27a6bd87ed81580b33346eb20646e12acb78dca696fb4
+
+SHA-256: 00cb680855affac994a8cd675be6a7d6c31061e1c565fd8ce61db9b72d94abd3
+
+SHA-384: 6e77d4472772e0e362fd96a0d07fb3a74bea300b5b423299296cf29d64011f67e4c83511d06181eb27c920e269dfed90
+
+SHA-512: 1bea9182c9a4764373d0e7071022fa85f4f7977043360e2b488686dc5328a9e0485a92ba4b98951bf475ffdd955b88401883521b57098c02ac57cb7ff0d7a075
+
+
+Note: The text file test.txt does include the quotes (") in the sentence.
