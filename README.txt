@@ -1,15 +1,14 @@
-Author - Kevin Filanowski
-Version - 08/19/18 - 1.0.0
+# Author
+Kevin Filanowski
+# Version
+08/19/18 - 1.0.0
 
-TABLE-OF-CONTENTS:
-------------------
-Description
-Contents
-Usage
-------------------
+# TABLE-OF-CONTENTS
+* Description
+* Contents
+* Usage
 
-DESCRIPTION:
-------------------
+# DESCRIPTION
 This folder includes three programs: CaesarShiftCipher.py, AffineCipher.py,
 and Hashing.py.
 
@@ -24,22 +23,26 @@ program, Hashing.py, computes numerous hash algorithms on a file input
 by the user. These hash algorithms are: SHA-224, SHA-256, SHA-384, SHA-512,
 and MD5.
 
-CONTENTS:
-------------------
-README - This file.
+# CONTENTS:
+* project 1.docx
+  * Questions and Directions for this assignment.
+* Answers.txt
+  * Answers to the questions asked in project1.docx.
 
-project 1.docx : Questions and Directions for this assignment.
-Answers.txt : Answers to the questions asked in project1.docx.
+* AffineCipher.py
+  * The Affine Cipher Encryption/Decryption program.
+* CaesarShiftCipher.py
+  * The Caesar Shift Cipher Encryption/Decryption program.
+* Hashing.py
+  * The Hashing algorithms program.
+* project 1.docx
+  * The project directions.
+* Answers.txt
+  * The answers to the questions on the project 1.docx.
+* test.txt
+  * sample text file to test the Hashing.py program with.
 
-AffineCipher.py : The Affine Cipher Encryption/Decryption program.
-CaesarShiftCipher.py : The Caesar Shift Cipher Encryption/Decryption program.
-Hashing.py : The Hashing algorithms program.
-project 1.docx : The project directions.
-Answers.txt : The answers to the questions on the project 1.docx.
-test.txt : A sample text file to test the Hashing.py program with.
-
-USAGE:
-------------------
+# USAGE
 This program is written in python 3, so it is important that we use
 python3, instead of python.
 
