@@ -46,16 +46,16 @@ and MD5.
 This program is written in python 3, so it is important that we use
 python3, instead of python.
 
-python3 CaesarShiftCipher.py
+`python3 CaesarShiftCipher.py`
 or
-./python3 CaesarShiftCipher.py
+`./python3 CaesarShiftCipher.py`
 
-python3 AffineCipher.py
+`python3 AffineCipher.py`
 or
-./python3 AffineCipher.py
+`./python3 AffineCipher.py`
 
-python3 Hashing.py
+`python3 Hashing.py`
 or
-./python3 Hashing.py
+`./python3 Hashing.py`
 
 A menu will appear from there, and the user can navigate that.
