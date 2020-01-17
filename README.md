@@ -4,9 +4,9 @@ Kevin Filanowski
 08/19/18 - 1.0.0
 
 # Table of Contents
-* Description
-* Contents
-* Usage
+* [Description](#description)
+* [Contents](#contents)
+* [Usage](#usage)
 
 # Description
 This folder includes three programs
